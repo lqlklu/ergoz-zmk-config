@@ -1,0 +1,12 @@
+file_format: "1"
+id: ergoz
+name: ErgoZ
+type: shield
+url: https://github.com/lqlklu/ergoz-keyboard
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
+siblings:
+  - ergoz_left
+  - ergoz_right
